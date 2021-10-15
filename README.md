@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukaszDziwosz
 - 👀 I’m interested in Swift and Arduino
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning SwiftUI/Combine
 - 💞️ I’m looking to collaborate on making dollars
 - 📫 How to reach me. ?
 
